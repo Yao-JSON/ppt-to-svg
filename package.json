@@ -1,0 +1,6 @@
+{
+  "name": "ppt-to-svg",
+  "dependencies": {
+    "@pdftron/pdfnet-node": "*"
+  }
+}

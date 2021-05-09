@@ -1,0 +1,163 @@
+<?xml-stylesheet type="text/css" href="mysql.css"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- PDFTron PDFNet Generated! Version: 9.0.0.77665 -->
+<svg id="svgRoot" version="1.1" baseProfile="Full" width="960px" height="540px" viewBox="0 0 960 540" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cs="http://www.pdftron.com/pdf2svg" xml:space="preserve">
+<defs>
+</defs>
+<style type="text/css">
+<![CDATA[
+.ps03 { stroke:#3B95D4;fill-opacity:0.098039;stroke-opacity:0.19608;fill:#3B95D4;fill-rule:evenodd; }
+.ps02 { stroke:none;fill:#000000; }
+.ps01 { stroke:none;fill:#808080; }
+.ps00 { stroke:none;fill:#E60011; }
+.ps11 { stroke-width:0.25;stroke-linejoin:round; }
+.ps10 { stroke-width:1;stroke-linejoin:round;stroke-miterlimit:10; }
+.ps23 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt0;font-style:normal;font-weight:normal;font-size:12.429px; }
+.ps210 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt0;font-style:normal;font-weight:normal;font-size:12px; }
+.ps22 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt0;font-style:normal;font-weight:normal;font-size:14.749px; }
+.ps20 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt0;font-style:normal;font-weight:normal;font-size:24px; }
+.ps211 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt1;font-style:normal;font-weight:normal;font-size:11.375px; }
+.ps21 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt1;font-style:normal;font-weight:normal;font-size:12.198px; }
+.ps212 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt1;font-style:normal;font-weight:normal;font-size:12.375px; }
+.ps25 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt1;font-style:normal;font-weight:normal;font-size:13.084px; }
+.ps215 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt1;font-style:normal;font-weight:normal;font-size:13.461px; }
+.ps28 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt1;font-style:normal;font-weight:normal;font-size:13.5px; }
+.ps27 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt1;font-style:normal;font-weight:normal;font-size:14.428px; }
+.ps214 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt1;font-style:normal;font-weight:normal;font-size:14.875px; }
+.ps217 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt1;font-style:normal;font-weight:normal;font-size:15.097px; }
+.ps216 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt1;font-style:normal;font-weight:normal;font-size:15.624px; }
+.ps213 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt1;font-style:normal;font-weight:normal;font-size:15px; }
+.ps218 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt1;font-style:normal;font-weight:normal;font-size:16.359px; }
+.ps26 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt1;font-style:normal;font-weight:normal;font-size:17.787px; }
+.ps29 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt1;font-style:normal;font-weight:normal;font-size:18px; }
+.ps24 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt1;font-style:normal;font-weight:normal;font-size:19.519px; }
+]]>
+</style>
+<clipPath id="clp1" clip-rule="nonzero">
+<rect x="0" y="0" width="960" height="540"/>
+</clipPath>
+<g clip-path="url(#clp1)" transform="matrix(1 0 0 -1 -0 540)">
+<g id="q1" class="">
+<g id="q2" class="">
+<g id="q3" class="">
+<g id="xfrm4" transform="matrix(960 0 0 540 0 0)">
+<image id="img22452" width="1" height="1" transform="matrix(1 0 0 -1 0 1)" preserveAspectRatio="none" image-rendering="optimizeSpeed" xlink:href="mysql_img22452.png"/>
+</g>
+</g>
+<g id="q5" class="">
+<text transform="matrix(1 0 0 -1 67.4 462.825)"><tspan x="0,24,48,72" y="-0" class="ps00 ps10 ps20">&#x9694;&#x79BB;&#x7EA7;&#x522B;</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 377.45 167.2)"><tspan x="0" y="-0" class="ps01 ps10 ps21">.</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 379.999 167.2)"><tspan xml:space="preserve" x="0" y="-0" class="ps01 ps10 ps21">&#160;</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 79.825 409.25)"><tspan x="0,10.28,20.561,35.31,45.591,56.387,71.137,85.886,100.64,113.94,123.66,134.46,145.25,160,174.75,189.5,204.25" y="-0" class="ps02 ps10 ps22">RR&#x548C;RC&#x6A21;&#x5F0F;&#x4E0B;MVCC&#x4E0B;&#x8BFB;&#x533A;&#x522B;&#xFF1A;</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 79.825 366.05)"><tspan x="0,12.429,24.857,37.286,49.714,62.143,74.571" y="-0" class="ps02 ps10 ps23">&#x8BFB;&#x7684;&#x5B9E;&#x73B0;&#x4E0D;&#x540C;&#xFF1A;</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 79.825 344.45)"><tspan x="0,7.8271" y="-0" class="ps02 ps10 ps24">1.</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 106.825 344.45)"><tspan x="0,8.8451,18.37,31.455,44.539,57.624,70.708,83.792,96.877,109.96,123.05,136.13,149.21,162.3,175.38,188.47,201.55,214.64,227.72,240.81,253.89,266.97,280.06,293.14,306.23,319.31,332.4,345.48,358.56,371.65,384.73,397.82,410.9,423.99,437.07,450.16,463.24,476.32,489.41,502.49,515.58,528.66,541.75,554.83,567.92" y="-0" class="ps02 ps10 ps25">RC&#x603B;&#x662F;&#x8BFB;&#x53D6;&#x8BB0;&#x5F55;&#x7684;&#x6700;&#x65B0;&#x7248;&#x672C;&#xFF0C;&#x5982;&#x679C;&#x8BB0;&#x5F55;&#x88AB;&#x9501;&#xFF0C;&#x5219;&#x8BFB;&#x53D6;&#x8BB0;&#x5F55;&#x6700;&#x65B0;&#x7684;&#x4E00;&#x6B21;&#x5FEB;&#x7167;&#xFF0C;&#x56E0;&#x6B64;&#x4E0D;&#x80FD;&#x4FDD;&#x8BC1;&#x53EF;&#x91CD;&#x590D;&#x8BFB;&#x3002;</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 79.825 322.85)"><tspan x="0,10.672" y="-0" class="ps02 ps10 ps26">2.</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 106.825 322.85)"><tspan x="0,9.7531,19.506,33.934,48.362,62.789,77.217,91.645,106.07" y="-0" class="ps02 ps10 ps27">RR&#x5219;&#x662F;&#x8BFB;&#x53D6;&#x8BE5;&#x8BB0;&#x5F55;</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 227.325 322.85)"><tspan x="0,13.5,27,40.5,54,67.5,81,94.5,108,121.5" y="-0" class="ps02 ps10 ps28">&#x4E8B;&#x52A1;&#x5F00;&#x59CB;&#x65F6;&#x7684;&#x90A3;&#x4E2A;&#x7248;&#x672C;</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 362.325 322.85)"><tspan x="0" y="-0" class="ps02 ps10 ps29">&#x3002;</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 79.825 279.65)"><tspan x="0,12,24,36,48" y="-0" class="ps02 ps10 ps210">&#x91CD;&#x8981;&#x6982;&#x5FF5;&#xFF1A;</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 79.825 236.45)"><tspan x="0,11.375,22.75,34.125" y="-0" class="ps02 ps10 ps211">&#x5FEB;&#x7167;&#x8BFB;&#xFF1A;</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 79.825 214.85)"><tspan x="0,12.375,24.75,37.125,49.5,61.875,74.25,86.625,99,111.38,123.75,136.13,148.5,160.88,173.25,185.63,198,210.38,222.75,235.13,247.5,259.88,272.25,284.63,297,309.38,321.75,334.13,346.5,358.88,371.25,383.63,396,408.38,420.75,433.13" y="-0" class="ps02 ps10 ps212">&#x4E0D;&#x8BBA;&#x5982;&#x4F55;&#x8BFB;&#xFF0C;&#x6700;&#x540E;&#x7684;&#x7ED3;&#x679C;&#x90FD;&#x80FD;&#x8BFB;&#x5230;&#xFF08;&#x8BFB;&#x7684;&#x5FEB;&#x7167;&#x6570;&#x636E;&#xFF09;&#xFF0C;&#x5E76;&#x4E0D;&#x4F1A;&#x88AB;&#x5199;&#x963B;&#x585E;&#xFF0C;&#x8FD9;&#x79CD;&#x8BFB;&#x53EB;</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 525.325 214.85)"><tspan x="0,15,30" y="-0" class="ps02 ps10 ps213">&#x5FEB;&#x7167;&#x8BFB;</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 565.825 214.85)"><tspan x="0,14.875,24.277,32.592,40.907,49.624,57.137,65.407,74.124" y="-0" class="ps02 ps10 ps214">&#xFF08;Snapshot</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 644.236 214.85)"><tspan xml:space="preserve" x="0,4.9535,15.009,23.265,31.581,40.298,55.173" y="-0" class="ps02 ps10 ps214">&#160;Read&#xFF09;&#x3002;</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 79.825 171.65)"><tspan x="0,11.375,22.75,34.125" y="-0" class="ps02 ps10 ps211">&#x5F53;&#x524D;&#x8BFB;&#xFF1A;</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 79.825 150.05)"><tspan x="0,9.8,17.338,22.252,27.165,34.636,42.161" y="-0" class="ps02 ps10 ps215">Current</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 125.771 150.05)"><tspan xml:space="preserve" x="0,4.4827,13.583,21.054,28.579,36.467,49.929,63.39,76.852,90.313,103.77,117.24,130.7,144.16,157.62,171.08,184.54,198.01,211.47,224.93,238.39,251.85,265.31,278.77,292.24,305.7,319.16,332.62,346.08,359.54,373,386.47,399.93,413.39,426.85,440.31,453.77,467.24,480.7,494.16,507.62,521.08" y="-0" class="ps02 ps10 ps215">&#160;Read&#xFF0C;&#x8FD9;&#x79CD;&#x8BFB;&#x64CD;&#x4F5C;&#x8BFB;&#x7684;&#x4E0D;&#x518D;&#x662F;&#x6570;&#x636E;&#x7684;&#x5FEB;&#x7167;&#x7248;&#x672C;&#xFF0C;&#x800C;&#x662F;&#x6570;&#x636E;&#x7684;&#x6700;&#x65B0;&#x7248;&#x672C;&#xFF0C;&#x5E76;&#x4F1A;&#x5BF9;&#x6570;&#x636E;&#x52A0;&#x9501;&#x3002;</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 79.825 128.45)"><tspan x="0,9.8747,19.827,29.015,38.967,50.342" y="-0" class="ps02 ps10 ps216">SELECT</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 138.845 128.45)"><tspan xml:space="preserve" x="0,5.2029,9.3278,13.453" y="-0" class="ps02 ps10 ps216">&#160;...</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 155.428 128.45)"><tspan xml:space="preserve" x="0,5.2029,14.39,26.374,37.749" y="-0" class="ps02 ps10 ps216">&#160;LOCK</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 202.964 128.45)"><tspan xml:space="preserve" x="0,5.2029,8.9059" y="-0" class="ps02 ps10 ps216">&#160;IN</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 222.11 128.45)"><tspan xml:space="preserve" x="0,5.2029,15.078,26.327,36.593,47.155" y="-0" class="ps02 ps10 ps216">&#160;SHARE</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 278.223 128.45)"><tspan xml:space="preserve" x="0,5.2029,18.984,30.968,41.999,51.951,67.576" y="-0" class="ps02 ps10 ps216">&#160;MODE&#xFF1A;&#x52A0;</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 360.429 128.45)"><tspan xml:space="preserve" x="0,5.2029" y="-0" class="ps02 ps10 ps216">&#160;S</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 374.513 128.45)"><tspan xml:space="preserve" x="0,5.2029,20.827,36.452,52.076,67.701,83.325" y="-0" class="ps02 ps10 ps216">&#160;&#x9501;&#xFF08;&#x9501;&#x5B9A;&#x8BFB;&#xFF09;</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 79.825 106.85)"><tspan x="0,9.5415,19.158,28.036,37.653,48.644" y="-0" class="ps02 ps10 ps217">SELECT</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 136.82 106.85)"><tspan xml:space="preserve" x="0,5.0274,9.0131,12.999" y="-0" class="ps02 ps10 ps217">&#160;...</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 152.81 106.85)"><tspan xml:space="preserve" x="0,5.0274,13.739,25.318" y="-0" class="ps02 ps10 ps217">&#160;FOR</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 187.34 106.85)"><tspan xml:space="preserve" x="0,5.0274,15.807,25.499,36.158,46.077,55.422,65.039,80.137" y="-0" class="ps02 ps10 ps217">&#160;UPDATE&#xFF1A;&#x52A0;</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 281.58 106.85)"><tspan xml:space="preserve" x="0,5.0274" y="-0" class="ps02 ps10 ps217">&#160;X</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 295.231 106.85)"><tspan xml:space="preserve" x="0,5.0274,20.125,35.222,50.319,65.417,80.514" y="-0" class="ps02 ps10 ps217">&#160;&#x9501;&#xFF08;&#x9501;&#x5B9A;&#x8BFB;&#xFF09;</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 79.825 85.25)"><tspan x="0,3.8771,15.639,25.978,36.399,47.458" y="-0" class="ps02 ps10 ps218">INSERT</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 136.415 85.25)"><tspan xml:space="preserve" x="0,5.4476" y="-0" class="ps02 ps10 ps218">&#160;/</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 149.048 85.25)"><tspan xml:space="preserve" x="0,5.4476,17.128,27.63,39.18,49.928,60.054" y="-0" class="ps02 ps10 ps218">&#160;UPDATE</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 218.529 85.25)"><tspan xml:space="preserve" x="0,5.4476" y="-0" class="ps02 ps10 ps218">&#160;/</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 231.162 85.25)"><tspan xml:space="preserve" x="0,5.4476,16.997,27.418,37.037,47.458,57.584,68.005,84.364" y="-0" class="ps02 ps10 ps218">&#160;DELETE&#xFF1A;&#x52A0;</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 330.89 85.25)"><tspan xml:space="preserve" x="0,5.4476" y="-0" class="ps02 ps10 ps218">&#160;X</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 345.765 85.25)"><tspan xml:space="preserve" x="0,5.4476" y="-0" class="ps02 ps10 ps218">&#160;&#x9501;</tspan>
+</text>
+</g>
+</g>
+</g>
+<g id="q6" class="">
+<g id="xfrm7" transform="matrix(1 0 0 1 336 126)">
+<clipPath id="clp2" clip-rule="nonzero">
+<rect x="0" y="0" width="288" height="288"/>
+</clipPath>
+<g id="frm8" clip-path="url(#clp2)">
+<path d="M56.75 29.85 C54.05 31.575 51.525 33.2 48.95 34.85 C48.925 35.25 49.225 35.575 49.4 35.85 C53.675 42.5 57.975 49.175 62.225 55.825 C65.7 61.225 70.725 63.05 76.8 61.025 C81.625 59.375 85.225 56.3 86.875 51.3 C87.925 48.05 87.4 45.05 85.675 42.175 C83.975 39.35 82.175 36.65 80.35 33.9 C77.4 29.475 79.7 26.275 83.05 24.375 C85.95 22.675 88.725 20.725 91.65 18.975 C89.9 16.225 88.175 13.55 86.4 10.8 C86.15 10.975 85.875 11.075 85.575 11.275 C81.725 13.75 77.8 16.225 73.95 18.75 C70.8 20.825 68.325 23.5 67.775 27.4 C67.375 30.125 68.125 32.5 69.575 34.75 C71.8 38.2 74 41.625 76.175 45.025 C77.275 46.725 77.25 48.1 76.3 49.45 C75.15 51.025 73.25 51.725 71.55 51.275 C70.625 51.05 70 50.425 69.475 49.625 C65.475 43.375 61.475 37.15 57.45 30.9 C57.25 30.675 57.025 30.3 56.725 29.875M97.3 94.725 C90.85 95.125 85.85 92.9 82.375 87.25 C79 81.7 75.375 76.275 71.875 70.8 C71.675 70.475 71.35 70.25 71.425 69.8 C83.9 61.8 96.375 53.775 108.9 45.75 C109.07 45.9 109.15 46.025 109.22 46.15 C113.05 52.1 116.82 58.075 120.65 63.925 C123.67 68.575 123.92 73.4 121.62 78.375 C119.8 82.425 117.02 85.65 113.5 88.25 C108.67 91.8 103.45 94.375 97.3 94.725M105.72 80.7 C108.2 79 110.3 76.925 111.65 74.225 C112.8 71.85 112.82 69.6 111.3 67.35 C109.7 64.95 108.2 62.5 106.65 60.1 C106.5 59.875 106.3 59.625 106.1 59.325 C98.925 63.95 91.85 68.475 84.7 73.075 C86.75 76.275 88.675 79.475 90.775 82.475 C91.975 84.175 93.975 84.575 96 84.5 C99.65 84.35 102.75 82.75 105.75 80.725M114.22 136.57 C116.75 134.95 119.32 133.27 121.9 131.62 C121.95 131.22 121.62 130.93 121.4 130.57 C117.85 125.05 114.4 119.5 110.75 114.07 C108.57 110.9 109.4 108.35 111.4 106.05 C112.12 105.25 113 104.7 113.85 103.85 C118.9 111.7 123.85 119.42 128.85 127.2 C131.6 125.45 134.25 123.75 136.93 122.02 C131.93 114.2 126.97 106.5 121.97 98.7 C126.9 95.525 131.83 92.375 136.77 89.2 C134.97 86.375 133.22 83.65 131.47 80.925 C131.27 81 131.1 81.05 130.9 81.175 C124.17 85.5 117.45 89.75 110.77 94.15 C107.52 96.3 104.6 98.8 102.35 102.07 C99.175 106.7 98.6 111.55 101.4 116.45 C105.25 123.32 109.82 129.77 114.05 136.45 C114.1 136.5 114.15 136.53 114.25 136.57M134.4 150.53 C144.27 144.17 154.1 137.88 163.97 131.55 C162.22 128.85 160.55 126.25 158.77 123.47 C148.93 129.8 139.07 136.12 129.1 142.53 C127.25 139.65 125.47 136.88 123.65 134.05 C120.95 135.77 118.4 137.43 115.75 139.12 C116 139.53 116.2 139.85 116.42 140.2 C126.02 155.15 135.62 170.1 145.22 185.05 C148.47 190.12 153.62 192.03 159.35 190.05 C164.22 188.45 167.93 185.45 169.67 180.45 C170.8 177.15 170.27 174.1 168.55 171.12 C167.5 169.38 166.35 167.7 165.27 166 C165.7 165.8 165.85 166.12 166.03 166.22 C171.03 169.55 176.05 172.93 181.03 176.25 C181.53 176.62 181.9 176.65 182.45 176.3 C185.12 174.53 187.8 172.88 190.62 171.05 C182.12 165.33 173.72 159.65 165.15 153.88 C168.35 151.83 171.4 149.85 174.47 147.88 C172.72 145.15 171.05 142.53 169.33 139.85 C169.07 139.95 168.85 140.07 168.62 140.22 C164.67 142.7 160.7 145.2 156.8 147.77 C155.12 148.83 153.62 150.12 152.47 151.83 C149.85 155.72 149.97 159.67 152.4 163.65 C154.53 167.05 156.75 170.43 158.93 173.8 C160.7 176.57 159.75 179.22 156.62 180.2 C155 180.72 153.53 180.22 152.62 178.85 C146.7 169.62 140.77 160.4 134.83 151.15 C134.67 151 134.62 150.83 134.4 150.47M195.67 225.67 C191.93 227.83 187.85 229.17 183.55 229.4 C177.25 229.77 172.4 227.27 168.97 221.95 C166.57 218.22 164.25 214.47 161.85 210.75 C159.17 206.57 158.77 202.3 160.47 197.75 C162.5 192.38 166.12 188.35 170.83 185.12 C175.57 181.85 180.75 179.57 186.67 179.6 C191.95 179.62 196.27 181.47 199.17 186.03 C200.6 188.22 201.95 190.33 203.33 192.47 C203.88 193.33 204.4 194.15 204.95 195 C206.45 197.35 208.72 200.57 208.85 201.67 C210.7 206.65 209.55 211.25 206.85 215.55 C204.07 220 200.15 223.15 195.67 225.67M192.83 214.9 C194.97 213.27 196.8 211.4 198.03 208.97 C199.27 206.5 199.38 204.35 197.7 201.75 C195.97 199.05 194.17 196.27 192.43 193.55 C190.88 191.12 188.95 190.3 186.33 190.38 C182.45 190.55 179.15 192.12 176.05 194.22 C173.8 195.77 171.85 197.62 170.55 200.1 C169.33 202.53 169.1 204.57 170.8 207.22 C171.83 208.8 175.55 214.57 176.53 216.1 C177.7 217.95 179.38 218.88 181.53 218.95 C185.95 219.22 189.53 217.38 192.85 214.88M198.8 268.97 C200.6 271.8 202.3 274.45 204.07 277.2 C204.35 277.02 204.57 276.92 204.8 276.77 C213.27 271.4 221.77 266 230.17 260.55 C232.1 259.3 234.22 258.27 235.88 256.62 C238.9 253.55 239.17 249.8 237.8 246 C236.17 241.45 233.03 238.35 228.12 237.33 C224.97 236.67 222.03 237.7 219.1 238.6 C212.33 240.67 205.6 243.03 198.6 244.4 C197.47 244.62 196.25 244.77 195.1 244.67 C194.5 244.62 193.9 244.55 193.7 243.88 C193.47 243.1 193.5 242.35 194.17 241.83 C194.5 241.55 222.95 223.35 222.95 223.35 L217.65 215.07 C217.65 215.07 197.57 227.97 187.88 234.2 C182.72 237.45 182.4 242.3 184.3 246.72 C185.83 250.3 188.15 253.25 192.17 254.35 C195.33 255.22 198.43 254.9 201.6 254.33 C207.75 253.12 213.55 250.65 219.55 248.83 C221.45 248.22 223.3 247.65 225.33 247.27 C226.53 247.05 227.6 247.25 228.05 248.47 C228.47 249.65 227.7 250.47 226.77 251.1 C217.77 256.85 208.85 262.6 199.83 268.38 C199.53 268.57 199.2 268.77 198.85 269.02" class="ps03 ps11"/>
+</g>
+</g>
+</g>
+</g>
+</svg>

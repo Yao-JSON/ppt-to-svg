@@ -1,0 +1,123 @@
+<?xml-stylesheet type="text/css" href="mysql.css"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- PDFTron PDFNet Generated! Version: 9.0.0.77665 -->
+<svg id="svgRoot" version="1.1" baseProfile="Full" width="960px" height="540px" viewBox="0 0 960 540" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cs="http://www.pdftron.com/pdf2svg" xml:space="preserve">
+<defs>
+</defs>
+<style type="text/css">
+<![CDATA[
+.ps02 { stroke:#3B95D4;fill-opacity:0.098039;stroke-opacity:0.19608;fill:#3B95D4;fill-rule:evenodd; }
+.ps01 { stroke:none;fill:#595959; }
+.ps00 { stroke:none;fill:#FFFFFF; }
+.ps10 { stroke-width:0.1;vector-effect:non-scaling-stroke;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none; }
+.ps12 { stroke-width:0.25;stroke-linejoin:round; }
+.ps11 { stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none; }
+.ps26 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt0;font-style:normal;font-weight:normal;font-size:20px; }
+.ps27 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt0;font-style:normal;font-weight:normal;font-size:22px; }
+.ps24 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt0;font-style:normal;font-weight:normal;font-size:24px; }
+.ps21 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt1;font-style:normal;font-weight:normal;font-size:12.002px; }
+.ps23 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt1;font-style:normal;font-weight:normal;font-size:12.004px; }
+.ps22 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt1;font-style:normal;font-weight:normal;font-size:12.006px; }
+.ps210 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt1;font-style:normal;font-weight:normal;font-size:17.997px; }
+.ps29 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt1;font-style:normal;font-weight:normal;font-size:17.999px; }
+.ps28 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt1;font-style:normal;font-weight:normal;font-size:18.006px; }
+.ps25 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt1;font-style:normal;font-weight:normal;font-size:18px; }
+.ps20 { 
+letter-spacing:0px;word-spacing:0;font-family:fnt1;font-style:normal;font-weight:normal;font-size:28.007px; }
+]]>
+</style>
+<clipPath id="clp1" clip-rule="nonzero">
+<rect x="0" y="0" width="960" height="540"/>
+</clipPath>
+<g clip-path="url(#clp1)" transform="matrix(1 0 0 -1 -0 540)">
+<g id="q1" class="">
+<g id="q2" class="">
+<g id="q3" class="">
+<g id="xfrm4" transform="matrix(960 0 0 540 0 0)">
+<image id="img360" width="1" height="1" transform="matrix(1 0 0 -1 0 1)" preserveAspectRatio="none" image-rendering="optimizeSpeed" xlink:href="mysql_img360.png"/>
+</g>
+</g>
+<g id="q5" class="">
+<text transform="matrix(1 0 0 -1 165.825 179.5)"><tspan x="0,15.572,31.144" y="-0" class="ps00 ps10 ps20">25%</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 95.225 137.875)"><tspan x="0,6.6733" y="-0" class="ps00 ps10 ps21">0%</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 269.65 137.875)"><tspan x="0,6.6755,13.351,20.026" y="-0" class="ps00 ps10 ps22">100%</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 87.75 246.825)"><tspan x="0,6.6744,13.349" y="-0" class="ps00 ps10 ps23">25%</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 181.825 301.3)"><tspan x="0,6.6744,13.349" y="-0" class="ps00 ps10 ps23">50%</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 277.05 246.825)"><tspan x="0,6.6744,13.349" y="-0" class="ps00 ps10 ps23">75%</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 372.35 248.6)"><tspan x="0,6.6744,13.349" y="-0" class="ps00 ps11 ps23">25%</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 454 303.675)"><tspan x="0,6.6744,13.349" y="-0" class="ps00 ps11 ps23">50%</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 559.725 246.975)"><tspan x="0,6.6744,13.349" y="-0" class="ps00 ps11 ps23">75%</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 651.875 248.6)"><tspan x="0,6.6744,13.349" y="-0" class="ps00 ps11 ps23">25%</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 742.325 303.675)"><tspan x="0,6.6744,13.349" y="-0" class="ps00 ps11 ps23">50%</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 840.175 246.975)"><tspan x="0,6.6744,13.349" y="-0" class="ps00 ps11 ps23">75%</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 372 438.6)"><tspan x="0,24,48,72,96,120,144,168,192" y="-0" class="ps00 ps11 ps24">&#x5404;&#x4EA7;&#x54C1;&#x5E02;&#x573A;&#x5360;&#x6BD4;&#x60C5;&#x51B5;</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 389.875 412.1)"><tspan x="0,11.988,17.982,27.99,37.998,48.006,57.006" y="-0" class="ps01 ps11 ps25">Product</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 451.881 412.1)"><tspan xml:space="preserve" x="0,4.986,19.98,29.988,35.982,44.982,54.99" y="-0" class="ps01 ps11 ps25">&#160;market</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 511.871 412.1)"><tspan xml:space="preserve" x="0,4.986,13.986,23.994,34.002,39.996" y="-0" class="ps01 ps11 ps25">&#160;share</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 169.375 129.725)"><tspan x="0,20,40" y="-0" class="ps00 ps11 ps26">&#x7535;&#x52A8;&#x8F66;</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 462 128.9)"><tspan x="0,22" y="-0" class="ps00 ps11 ps27">&#x6C7D;&#x8F66;</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 730.725 128.9)"><tspan x="0,20,40" y="-0" class="ps00 ps11 ps26">&#x81EA;&#x884C;&#x8F66;</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 151.875 105.675)"><tspan x="0,11.992,15.99,26.001,35.005,39.992,45.989,49.986" y="-0" class="ps01 ps11 ps28">Electric</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 210.878 105.675)"><tspan xml:space="preserve" x="0,4.9878,13.991,24.003" y="-0" class="ps01 ps11 ps28">&#160;car</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 468.2 104.85)"><tspan x="0,8.9995,19.007" y="-0" class="ps01 ps11 ps29">car</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 731.725 104.85)"><tspan x="0,10.007,14.002,23.001,31.999,40.998,44.993" y="-0" class="ps01 ps11 ps210">bicycle</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 452.45 179.5)"><tspan x="0,15.572,31.144" y="-0" class="ps00 ps10 ps20">50%</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 727.025 179.5)"><tspan x="0,15.572,31.144" y="-0" class="ps00 ps10 ps20">75%</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 381.075 137.875)"><tspan x="0,6.6733" y="-0" class="ps00 ps10 ps21">0%</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 555.475 137.875)"><tspan x="0,6.6755,13.351,20.026" y="-0" class="ps00 ps10 ps22">100%</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 661.1 137.875)"><tspan x="0,6.6733" y="-0" class="ps00 ps10 ps21">0%</tspan>
+</text>
+<text transform="matrix(1 0 0 -1 835.5 137.875)"><tspan x="0,6.6755,13.351,20.026" y="-0" class="ps00 ps10 ps22">100%</tspan>
+</text>
+</g>
+</g>
+</g>
+<g id="q6" class="">
+<g id="xfrm7" transform="matrix(1 0 0 1 336 126)">
+<clipPath id="clp2" clip-rule="nonzero">
+<rect x="0" y="0" width="288" height="288"/>
+</clipPath>
+<g id="frm8" clip-path="url(#clp2)">
+<path d="M56.75 29.85 C54.05 31.575 51.525 33.2 48.95 34.85 C48.925 35.25 49.225 35.575 49.4 35.85 C53.675 42.5 57.975 49.175 62.225 55.825 C65.7 61.225 70.725 63.05 76.8 61.025 C81.625 59.375 85.225 56.3 86.875 51.3 C87.925 48.05 87.4 45.05 85.675 42.175 C83.975 39.35 82.175 36.65 80.35 33.9 C77.4 29.475 79.7 26.275 83.05 24.375 C85.95 22.675 88.725 20.725 91.65 18.975 C89.9 16.225 88.175 13.55 86.4 10.8 C86.15 10.975 85.875 11.075 85.575 11.275 C81.725 13.75 77.8 16.225 73.95 18.75 C70.8 20.825 68.325 23.5 67.775 27.4 C67.375 30.125 68.125 32.5 69.575 34.75 C71.8 38.2 74 41.625 76.175 45.025 C77.275 46.725 77.25 48.1 76.3 49.45 C75.15 51.025 73.25 51.725 71.55 51.275 C70.625 51.05 70 50.425 69.475 49.625 C65.475 43.375 61.475 37.15 57.45 30.9 C57.25 30.675 57.025 30.3 56.725 29.875M97.3 94.725 C90.85 95.125 85.85 92.9 82.375 87.25 C79 81.7 75.375 76.275 71.875 70.8 C71.675 70.475 71.35 70.25 71.425 69.8 C83.9 61.8 96.375 53.775 108.9 45.75 C109.07 45.9 109.15 46.025 109.22 46.15 C113.05 52.1 116.82 58.075 120.65 63.925 C123.67 68.575 123.92 73.4 121.62 78.375 C119.8 82.425 117.02 85.65 113.5 88.25 C108.67 91.8 103.45 94.375 97.3 94.725M105.72 80.7 C108.2 79 110.3 76.925 111.65 74.225 C112.8 71.85 112.82 69.6 111.3 67.35 C109.7 64.95 108.2 62.5 106.65 60.1 C106.5 59.875 106.3 59.625 106.1 59.325 C98.925 63.95 91.85 68.475 84.7 73.075 C86.75 76.275 88.675 79.475 90.775 82.475 C91.975 84.175 93.975 84.575 96 84.5 C99.65 84.35 102.75 82.75 105.75 80.725M114.22 136.57 C116.75 134.95 119.32 133.27 121.9 131.62 C121.95 131.22 121.62 130.93 121.4 130.57 C117.85 125.05 114.4 119.5 110.75 114.07 C108.57 110.9 109.4 108.35 111.4 106.05 C112.12 105.25 113 104.7 113.85 103.85 C118.9 111.7 123.85 119.42 128.85 127.2 C131.6 125.45 134.25 123.75 136.93 122.02 C131.93 114.2 126.97 106.5 121.97 98.7 C126.9 95.525 131.83 92.375 136.77 89.2 C134.97 86.375 133.22 83.65 131.47 80.925 C131.27 81 131.1 81.05 130.9 81.175 C124.17 85.5 117.45 89.75 110.77 94.15 C107.52 96.3 104.6 98.8 102.35 102.07 C99.175 106.7 98.6 111.55 101.4 116.45 C105.25 123.32 109.82 129.77 114.05 136.45 C114.1 136.5 114.15 136.53 114.25 136.57M134.4 150.53 C144.27 144.17 154.1 137.88 163.97 131.55 C162.22 128.85 160.55 126.25 158.77 123.47 C148.93 129.8 139.07 136.12 129.1 142.53 C127.25 139.65 125.47 136.88 123.65 134.05 C120.95 135.77 118.4 137.43 115.75 139.12 C116 139.53 116.2 139.85 116.42 140.2 C126.02 155.15 135.62 170.1 145.22 185.05 C148.47 190.12 153.62 192.03 159.35 190.05 C164.22 188.45 167.93 185.45 169.67 180.45 C170.8 177.15 170.27 174.1 168.55 171.12 C167.5 169.38 166.35 167.7 165.27 166 C165.7 165.8 165.85 166.12 166.03 166.22 C171.03 169.55 176.05 172.93 181.03 176.25 C181.53 176.62 181.9 176.65 182.45 176.3 C185.12 174.53 187.8 172.88 190.62 171.05 C182.12 165.33 173.72 159.65 165.15 153.88 C168.35 151.83 171.4 149.85 174.47 147.88 C172.72 145.15 171.05 142.53 169.33 139.85 C169.07 139.95 168.85 140.07 168.62 140.22 C164.67 142.7 160.7 145.2 156.8 147.77 C155.12 148.83 153.62 150.12 152.47 151.83 C149.85 155.72 149.97 159.67 152.4 163.65 C154.53 167.05 156.75 170.43 158.93 173.8 C160.7 176.57 159.75 179.22 156.62 180.2 C155 180.72 153.53 180.22 152.62 178.85 C146.7 169.62 140.77 160.4 134.83 151.15 C134.67 151 134.62 150.83 134.4 150.47M195.67 225.67 C191.93 227.83 187.85 229.17 183.55 229.4 C177.25 229.77 172.4 227.27 168.97 221.95 C166.57 218.22 164.25 214.47 161.85 210.75 C159.17 206.57 158.77 202.3 160.47 197.75 C162.5 192.38 166.12 188.35 170.83 185.12 C175.57 181.85 180.75 179.57 186.67 179.6 C191.95 179.62 196.27 181.47 199.17 186.03 C200.6 188.22 201.95 190.33 203.33 192.47 C203.88 193.33 204.4 194.15 204.95 195 C206.45 197.35 208.72 200.57 208.85 201.67 C210.7 206.65 209.55 211.25 206.85 215.55 C204.07 220 200.15 223.15 195.67 225.67M192.83 214.9 C194.97 213.27 196.8 211.4 198.03 208.97 C199.27 206.5 199.38 204.35 197.7 201.75 C195.97 199.05 194.17 196.27 192.43 193.55 C190.88 191.12 188.95 190.3 186.33 190.38 C182.45 190.55 179.15 192.12 176.05 194.22 C173.8 195.77 171.85 197.62 170.55 200.1 C169.33 202.53 169.1 204.57 170.8 207.22 C171.83 208.8 175.55 214.57 176.53 216.1 C177.7 217.95 179.38 218.88 181.53 218.95 C185.95 219.22 189.53 217.38 192.85 214.88M198.8 268.97 C200.6 271.8 202.3 274.45 204.07 277.2 C204.35 277.02 204.57 276.92 204.8 276.77 C213.27 271.4 221.77 266 230.17 260.55 C232.1 259.3 234.22 258.27 235.88 256.62 C238.9 253.55 239.17 249.8 237.8 246 C236.17 241.45 233.03 238.35 228.12 237.33 C224.97 236.67 222.03 237.7 219.1 238.6 C212.33 240.67 205.6 243.03 198.6 244.4 C197.47 244.62 196.25 244.77 195.1 244.67 C194.5 244.62 193.9 244.55 193.7 243.88 C193.47 243.1 193.5 242.35 194.17 241.83 C194.5 241.55 222.95 223.35 222.95 223.35 L217.65 215.07 C217.65 215.07 197.57 227.97 187.88 234.2 C182.72 237.45 182.4 242.3 184.3 246.72 C185.83 250.3 188.15 253.25 192.17 254.35 C195.33 255.22 198.43 254.9 201.6 254.33 C207.75 253.12 213.55 250.65 219.55 248.83 C221.45 248.22 223.3 247.65 225.33 247.27 C226.53 247.05 227.6 247.25 228.05 248.47 C228.47 249.65 227.7 250.47 226.77 251.1 C217.77 256.85 208.85 262.6 199.83 268.38 C199.53 268.57 199.2 268.77 198.85 269.02" class="ps02 ps12"/>
+</g>
+</g>
+</g>
+</g>
+</svg>
