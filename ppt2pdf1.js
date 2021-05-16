@@ -13,7 +13,12 @@ const runOfficeToPDF = async () => {
 
     const pptToSvg = async (inputFilename, outputFilename) => {
         const pdfdoc = await PDFNet.Convert.officeToPdfWithPath(inputPath + inputFilename);
-        await PDFNet.Convert.docToSvg(pdfdoc, outputPath + outputFilename)
+        console.log('pdfdoc ==> ', pdfdoc);
+        try {
+            await PDFNet.Convert.docToSvg(pdfdoc, outputPath + outputFilename)
+        } catch (error) {
+            console.log('error ===> ', error);
+        }
     }
 
     const flexibleDocxConvert = async (inputFilename, outputFilename) => {
@@ -47,14 +52,14 @@ const runOfficeToPDF = async () => {
         PDFNet.addResourceSearchPath('./Resources');
 
         try {
-            // await simpleDocxConvert('mysql.pptx', 'mysql.pdf');
-            await pptToSvg('mysql.pptx', '/svg/mysql.svg');
-            await pptToSvg('p1.pptx', '/svg1/mysql.svg');
-            await pptToSvg('p2.pptx', '/svg2/mysql.svg');
-            // await flexibleDocxConvert('mysql.pptx',
-            //     'mysql1.pdf');
+            await simpleDocxConvert('mysql.pptx', 'mysql.pdf');
+            await pptToSvg('mysql.pptx', '/sv5/mysql.svg');
+            await pptToSvg('p1.pptx', '/svg4/mysql.svg');
+            await pptToSvg('p2.pptx', '/svg3/mysql.svg');
+            await flexibleDocxConvert('mysql.pptx',
+                'mysql1.pdf');
 
-            // await flexibleDocxConvert('factsheet_Arabic.docx', 'factsheet_Arabic.pdf');
+            await flexibleDocxConvert('factsheet_Arabic.docx', 'factsheet_Arabic.pdf');
         } catch (err) {
             console.log(err);
         }
